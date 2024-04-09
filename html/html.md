@@ -4,7 +4,7 @@
 
 ### What is Important to Remember:
 
--`Do not add nested git repository into another git repositroy`
+-`Do not add nested git repository into another git repository`
 
 -`To  commit a message , Start with  a `**(Capital Letter)** `,and use` **(Present tense** `,` **imperative mode ..ex. Add , Update , fix etc...)**
 
